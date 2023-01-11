@@ -1,0 +1,42 @@
+@media(max-width:1200px){
+    
+}
+@media(max-width:998px){
+    
+}
+@media(max-width:789px){
+    .main{
+         padding: 20px 50px;
+    border-radius: 10px;
+    height: 500px;
+    width: 400px;
+
+    }
+   
+}
+@media(max-width:576px){
+    .main{
+        padding: 20px 50px;
+   border-radius: 10px;
+   height: 500px;
+   width: 250px;
+
+   }
+}
+@media(max-width:360px){
+    .main{
+        padding: 10px 20px;
+   border-radius: 10px;
+   height: 500px;
+   width: 250px;
+   font-size: 10px;
+
+   }
+ .main  h3{
+    font-size: 10px;
+   }
+   h3{
+    font-size: 10px;
+    text-align: center;
+}
+}
